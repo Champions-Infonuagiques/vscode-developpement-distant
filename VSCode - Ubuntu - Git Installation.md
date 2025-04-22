@@ -1,5 +1,5 @@
 # Installation de Git
-1. Dans la console, mettre à jour le registre de packet. <br>
+1. Dans la console, mettre à jour le registre de paquet.<br>
 ```bash
 $ sudo apt update
 ```
@@ -27,7 +27,7 @@ git is already the newest version (1:2.43.0-1ubuntu7.2).
 git set to manually installed.
 0 upgraded, 0 newly installed, 0 to remove and 63 not upgraded
 ```
-***À savoir: Git est souvent déjà install dans Ubuntu par default.***
+***À savoir: Git est souvent déjà installé dans Ubuntu par défaut.***
 
 3. Valider l'installation:
 ```bash

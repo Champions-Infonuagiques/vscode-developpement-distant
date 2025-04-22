@@ -1,4 +1,4 @@
-# VS Code - Le developpement distant
+# VS Code - Le développement distant
 Tutorial sur le développement distant en utilisant VS Code.
 
 ## Prérequis
@@ -14,16 +14,16 @@ Installer [Visual Studio Code](https://code.visualstudio.com/Download)
 [Créé une machine virtuelle dans Azure](./Azure%20-%20Créé%20une%20machine%20virtuelle.md)
 
 ---
-#### Installation manuel
+#### Installation manuelle
 [Générer une clé SSH](./Misc%20-%20Créer%20une%20clé%20SSH%20local.md)
 
 [Installer un serveur Ubuntu](https://ubuntu.com/tutorials/install-ubuntu-server)
 
-> ***Astuce:*** Impoter votre clé ssh stocké sur GitHub à l'étape de configuration du profile: [12. Set up a Profile](https://ubuntu.com/tutorials/install-ubuntu-server#12-set-up-a-profile)
+> ***Astuce:*** Impoter votre clé ssh stockée sur GitHub à l'étape de configuration du profile: [12. Set up a Profile](https://ubuntu.com/tutorials/install-ubuntu-server#12-set-up-a-profile)
 ---
 
-## Configurer VS Code pour la connection distante
-[Configuration d'une connection distante](./VSCode%20-%20Configuration%20d'une%20connection%20distante.md)
+## Configurer VS Code pour la connexion distante
+[Configuration d'une connexion distante](./VSCode%20-%20Configuration%20d'une%20connection%20distante.md)
 
 ## Connexion à la machine virtuelle distante
 [Connexion à la machine virtuelle distante](./VSCode%20-%20Connexion%20à%20la%20machine%20virtuelle%20distante.md)
@@ -33,20 +33,9 @@ Installer [Visual Studio Code](https://code.visualstudio.com/Download)
 
 [Installation de Docker](./VSCode%20-%20Ubuntu%20-%20Docker%20Installation.md)
 
-[Les extensions VS Code locale vs distante](./VSCode%20-%20Remote%20addons.md)
+[Les extensions VS Code locales vs distante](./VSCode%20-%20Remote%20addons.md)
 
 [Installation de l'extension "Docker"](./VSCode%20-%20Installation%20addon%20Docker.md)
-
-
-
-
-
-
-
-
-
-
-
 
 # Références
 [Install Docker Engine on Ubuntu](https://docs.docker.com/engine/install/ubuntu/)

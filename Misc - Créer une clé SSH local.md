@@ -1,11 +1,11 @@
-### Créer une paire de clé SSH
-Ouvrir une invite de commande et aller au répertoire `.ssh` de votre dossier de profile:
+### Créer une paire de clés SSH
+Ouvrir une invite de commande et aller au répertoire `.ssh` de votre dossier de profil:
 ``` powershell
 C:\Users\dev> cd ~/.ssh
 C:\Users\user\.ssh>
 ```
 
-Lancer la commande de création de clé SSH: `ssh-keygen -b 2048 -t rsa -f dev`
+Lancer la commande de création de clés SSH: `ssh-keygen -b 2048 -t rsa -f dev`
 ``` powershell
 C:\Users\user\.ssh> ssh-keygen -b 2048 -t rsa -f dev
 Generating public/private rsa key pair.
@@ -30,7 +30,7 @@ The key's randomart image is:
 
 ```
 
-Deux nouveaux fichiers devrais avoir été créé:
+Deux nouveaux fichiers devraient avoir été créés:
 ``` powershell
 C:\Users\user\.ssh> ls
 

@@ -1,5 +1,5 @@
 # Installation de Git
-1. Dans la console, mettre à jour le registre de packet. <br>
+1. Dans la console, mettre à jour le registre de paquet.<br>
 ```bash
 $ sudo apt update
 ```
@@ -120,9 +120,9 @@ For more examples and ideas, visit:
  https://docs.docker.com/get-started/
 ```
 
-5. Se donner acces à l'API Docker.
+5. Se donner accès à l'API Docker.
 
-Pour avoir accès à distance à Docker, ex. Extension VS Code. Vous devez vous ajouter au group d'utilisateur "docker".
+Pour avoir accès à distance à Docker, ex. Extension VS Code. Vous devez vous ajouter au groupe d'utilisateur "docker".
 ```bash
 # Remplacer 'username' par votre non d'utilisateur
 sudo usermod -a -G docker userName

@@ -5,12 +5,12 @@
 1. Faite une recherche pour "Ubuntu" et cliquer "Créer" sur "Ubuntu Minimal 22.04 LTS". <br>
 <img src="./images/Azure - Search ubuntu in market.png">
 
-1. Donné un nom à la machine, ajuster la taille au besoin et vérifier que l'option "Générer une nouvelle paire de clés" est sélectionner. <br>
+1. Donné un nom à la machine, ajuster la taille au besoin et vérifier que l'option "Générer une nouvelle paire de clés" est sélectionnée. <br>
 <img src="./images/Azure - VM form.png">
 
 1. Cliquer "Vérifier + créer". Puis, "Créer". <br>
-1. Télécharger la clé privée et sauvegarder la dans le dossier "C:\Users\USER\\.ssh". <br>
+1. Téléchargez la clé privée et sauvegardez-la dans le dossier "C:\Users\USER\\.ssh". <br>
 <img src="./images/Azure - Download ssh key.png">
 
-1. Accéder à la ressource et récupéré l'adresse IP public. <br>
+1. Accéder à la ressource et récupérer l'adresse IP publique. <br>
 <img src="./images/Azure - Public IP address.png">
