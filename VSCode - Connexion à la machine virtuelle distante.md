@@ -1,5 +1,5 @@
 # Connexion à la machine virtuelle distante
-1. Dans VS Code, cliquer sur le bouton "Fenêtre distante". Dans le menu en haut, cliquer sur "Connecter la fenêtre courent à un hôte". <br>
+1. Dans VS Code, cliquer sur le bouton "Fenêtre distante". Dans le menu en haut, cliquer sur "Connecter la fenêtre courant à un hôte". <br>
 <img src="./images/VSCode - Remote window button.png"> <br>
 <img src="./images/VSCode - Connect Current Window to Host.png">
 

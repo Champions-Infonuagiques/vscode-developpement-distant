@@ -53,7 +53,7 @@ Fetched 72.0 kB in 0s (145 kB/s)
 Reading package lists... Done
 ```
 
-3. Installer docker.
+3. Installer Docker.
 ```bash
 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 ```
@@ -122,11 +122,18 @@ For more examples and ideas, visit:
 
 5. Se donner accès à l'API Docker.
 
-Pour avoir accès à distance à Docker, ex. Extension VS Code. Vous devez vous ajouter au groupe d'utilisateur "docker".
+Pour avoir le droit de lancer des conteneurs, vous devez vous ajouter au groupe d'utilisateurs "docker".
+
 ```bash
+# Créer le group
+$ sudo groupadd docker
+
 # Remplacer 'username' par votre non d'utilisateur
-sudo usermod -a -G docker userName
+$ sudo usermod -a -G docker userName
 ```
 
+> ***Astuce:*** Afin de rafraichir les permissions, fermez la connexion distante et reconnectez-vous.
+
 # Références
-[Install Docker Engine on Ubuntu](https://docs.docker.com/engine/install/ubuntu/)
+- [Install Docker Engine on Ubuntu](https://docs.docker.com/engine/install/ubuntu/)
+- [Linux post-installation steps for Docker Engine](https://docs.docker.com/engine/install/linux-postinstall/)

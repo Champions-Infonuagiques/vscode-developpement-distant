@@ -28,7 +28,10 @@ Installer [Visual Studio Code](https://code.visualstudio.com/Download)
 ## Connexion à la machine virtuelle distante
 [Connexion à la machine virtuelle distante](./VSCode%20-%20Connexion%20à%20la%20machine%20virtuelle%20distante.md)
 
-## Préparation de l'environnement de développement.
+## Accès aux répertoires Git dans la machine virtuelle distante
+[Cloner un répertoire Git dans la machine virtuelle distante](./VSCode%20-%20Cloner%20un%20répertoire%20Git%20dans%20la%20machine%20virtuelle%20distante.md)
+
+## Préparation de l'environnement pour le développement en conteneur
 [Installation de Git](./VSCode%20-%20Ubuntu%20-%20Git%20Installation.md)
 
 [Installation de Docker](./VSCode%20-%20Ubuntu%20-%20Docker%20Installation.md)
@@ -36,6 +39,11 @@ Installer [Visual Studio Code](https://code.visualstudio.com/Download)
 [Les extensions VS Code locales vs distante](./VSCode%20-%20Remote%20addons.md)
 
 [Installation de l'extension "Docker"](./VSCode%20-%20Installation%20addon%20Docker.md)
+
+## Création d'un conteneur de développement
+[Création d'un conteneur de développement](./VSCode%20-%20Création%20d'un%20conteneur%20de%20développement.md)
+
+[Gérer les conteneurs de développement](./VSCode%20-%20Géré%20les%20conteneurs%20de%20développement.md)
 
 # Références
 [Install Docker Engine on Ubuntu](https://docs.docker.com/engine/install/ubuntu/)
