@@ -45,5 +45,3 @@ Installer [Visual Studio Code](https://code.visualstudio.com/Download)
 
 [Gérer les conteneurs de développement](./VSCode%20-%20Géré%20les%20conteneurs%20de%20développement.md)
 
-# Références
-[Install Docker Engine on Ubuntu](https://docs.docker.com/engine/install/ubuntu/)
