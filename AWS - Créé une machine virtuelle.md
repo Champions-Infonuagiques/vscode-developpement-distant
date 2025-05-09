@@ -5,7 +5,7 @@
 1. Dans le menu "Instances", cliquer sur "Lancer des instances". <br>
 <img src="./images/AWS - Launch new EC2.png">
 
-1. Donné un nom à la machine, sélectionner l'image "Ubuntu"
+1. Donné un nom à la machine, sélectionner l'image "Ubuntu"<br>
 <img src="./images/AWS - New EC2 select image.png">
 
 1. Sélection une instance de type "t2.medium". <br>
@@ -20,7 +20,7 @@
 1. Sauvegarder la clé privée dans le dossier "C:\Users\user\\.ssh". <br>
 <img src="./images/AWS - Save ssh key.png">
 
-1. Changer la taille de la configuration de stockage pour 30Gio
+1. Changer la taille de la configuration de stockage pour 30Gio. <br>
 <img src="./images/AWS - New EC2 select storage size.png">
 
 1. Cliquer sur le bouton "Lancer l'instance" en bas à droite. <br>
